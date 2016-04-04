@@ -1,0 +1,5 @@
+#!/bin/bash
+
+printf "Starting server: \n\n"
+
+node --harmony_rest_parameters backend/server.js
